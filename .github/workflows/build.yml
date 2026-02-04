@@ -34,8 +34,8 @@ jobs:
           - x86_64
           
         sdk:
-          - 23.05
-          - 24.10
+          - openwrt-23.05
+          - openwrt-24.10
 
     steps:
       - uses: actions/checkout@v5
